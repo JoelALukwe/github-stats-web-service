@@ -131,19 +131,8 @@ I'm Joel Alukwe, a passionate full-stack developer with experience in backend an
 **Links:**
 - [GitHub Repository](https://github.com/JoelALukwe/github-stats-web-service)
 - [Deployed Project](link-to-deployed-project)
-- [LinkedIn Profile](link-to-linkedin-profile)
+- [LinkedIn Profile](https://www.linkedin.com/in/joel-alukwe-05711278/)
 
 Thanks for checking out my project! I’d love to hear your feedback and thoughts. Feel free to reach out or contribute to the project.
 
----
 
-Add this to your `README.md` file to give recruiters and hiring managers a clear understanding of your project while providing context and emotion to the work you've put into it.
-
-## Project Name : github-stats-web-service
-Introduction : this is my final year alx software engineering project
-Must include link to your deployed site, final project blog article, author(s) LinkedIn
-Installation : yet to be confirmed
-Usage : the usage of this tool is to track statistics metrics of individual github accounts
-Contributing : @JoelALukwe was the only contributor of the project
-Related projects : none
-Licensing : none
